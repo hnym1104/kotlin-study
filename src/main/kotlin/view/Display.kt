@@ -2,5 +2,7 @@ package view
 
 interface Display {
 
-    fun display()
+    fun racingDisplay()
+
+    fun finalResultDisplay()
 }
